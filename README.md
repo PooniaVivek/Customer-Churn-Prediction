@@ -116,4 +116,4 @@ Customer-Churn-Prediction/
 
 ## 👨‍💻 Author
 
-**Vivek Poonia**
+**Vivek Poonia & Keshav Sharma**
